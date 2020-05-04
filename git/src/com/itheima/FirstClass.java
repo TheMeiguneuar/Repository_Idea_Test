@@ -5,6 +5,7 @@ public class FirstClass {
         System.out.println("hello git project");
 
         System.out.println(new FirstClass().add());
+        //hello model
     }
 
     public int add() {
